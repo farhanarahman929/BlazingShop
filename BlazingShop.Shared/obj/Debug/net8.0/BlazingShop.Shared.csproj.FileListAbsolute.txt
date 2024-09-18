@@ -1,0 +1,12 @@
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\bin\Debug\net8.0\BlazingShop.Shared.deps.json
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\bin\Debug\net8.0\BlazingShop.Shared.dll
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\bin\Debug\net8.0\BlazingShop.Shared.pdb
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\obj\Debug\net8.0\BlazingShop.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\obj\Debug\net8.0\BlazingShop.Shared.AssemblyInfoInputs.cache
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\obj\Debug\net8.0\BlazingShop.Shared.AssemblyInfo.cs
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\obj\Debug\net8.0\BlazingShop.Shared.csproj.CoreCompileInputs.cache
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\obj\Debug\net8.0\BlazingShop.Shared.dll
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\obj\Debug\net8.0\refint\BlazingShop.Shared.dll
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\obj\Debug\net8.0\BlazingShop.Shared.pdb
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\obj\Debug\net8.0\ref\BlazingShop.Shared.dll
+D:\Blazor_Project\BlazorDeepDive\Blazing_Shop\BlazingShop1\BlazingShop\BlazingShop.Shared\obj\Debug\net8.0\BlazingShop.Shared.csproj.AssemblyReference.cache
