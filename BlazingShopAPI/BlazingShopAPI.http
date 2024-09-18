@@ -1,0 +1,6 @@
+@BlazingShopAPI_HostAddress = http://localhost:5117
+
+GET {{BlazingShopAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
